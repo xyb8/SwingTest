@@ -443,5 +443,6 @@ public class SWTResourceManager {
 		disposeImages();
 		disposeFonts();
 		disposeCursors();
+		//Test//
 	}
 }
